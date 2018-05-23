@@ -29,7 +29,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Grimmond & Oke (2002) JAM
 * Offerle et al. (2003) JAM 
 * Loridan et al. (2011) JAMC
-* <a href="http://www.met.rdg.ac.uk/micromet/documents/LUMPSv5_6_IO.pdf"  Manual</a> 
+* <a href="other files/LUMPSv5_6_IO.pdf" download>Manual PDF</a> 
 * <a href="other files/LUMPS_V5_6.zip" download>Download</a>
 
 
