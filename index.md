@@ -17,12 +17,14 @@ Links to public releases of softwares developed by Urban Meteorology Group at Un
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
 # SUEWS V2017b
-
-* macOS
-<a href="other files/SUEWS_V2017b_macOS.zip" download>Download</a>
-
-* Windows10x64
-<a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
+* Grimmond & Oke (1991)
+* Jarvi et al. (2011) J. Hydrology
+* Jarvi et al. (2014) GMD 
+* Ward et al. (2016) Urban Climate https://www.sciencedirect.com/science/article/pii/S2212095516300256
+* Latest version of the Manual: http://suews-docs.readthedocs.io
+* There is also a version in <a href="https://umep-docs.readthedocs.io/en/latest/" UMEP</a> 
+* Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
+* Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
 
 
 # LUMPS V5_6
@@ -34,11 +36,12 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 
 # GreaterQF 
-
+* New more generic version of GreaterQF (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
+* macOS
 <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
 
 
-# SVF -IU
+# SVF - IU
 
 <a href="./other files/svf.zip" download>Download</a>
 
