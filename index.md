@@ -21,8 +21,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * urban radiaion – energy and water balance model. Includes LUMPS and can be used to calculate QF.
   * Applicable Period: 5 min-hourly-annual
 * References
-  * Jarvi et al. (2011) J. Hydrology
-  * Jarvi et al. (2014) GMD 
+  * Järvi L, CSB Grimmond, A Christen (2011) The<strong>S</strong>urface <strong>U</strong>rban <strong>E</strong>nergy and <strong>W</strong>ater Balance <strong>S</strong>cheme (SUEWS): Evaluation in Vancouver  and Los Angeles. [Journal of Hydrology doi:10.1016/j.jhydrol.2011.10.001](http://www.sciencedirect.com/science/article/pii/S0022169411006937)
+  * Järvi L, Grimmond CSB, Taka M, Nordbo A, Setälä H, Strachan IB (2014) Development of the Surface Urban Energy and Water balance Scheme (SUEWS) for cold climate cities.[Geoscientific Model Development 7 1691-1711. doi](http://dx.doi.org/10.5194/gmd-7-1691-2014)
   * Ward et al. (2016) [Urban Climate](https://www.sciencedirect.com/science/article/pii/S2212095516300256)
   * Grimmond CSB  Oke TR & Steyn DG (1986) Urban water balance: 1. A model for daily totals. Water Resources Research 22(10) 1397-140
   * Grimmond CSB & Oke TR (1991). An evapotranspiration-interception model for urban areas. Water Resources Research 27(7) 1739-1755
@@ -121,19 +121,11 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 # Publications
 
-
-  * SUEWS OHM – LUMPS
-*
-  * LUMPS NARP – SUEWS 
 * Offerle B (2003) The energy balance of an urban area: Examining temporal and spatial variability through measurements – remote sensing and modeling. PhD thesis Indiana University
   * LUMPS
 * Xu W Wooster MJ & Grimmond CSB (2008). Modelling of urban sensible heat flux at multiple spatial scales: A demonstration using hyperspectral imagery of Shanghai and a temperature-emissivity separation approach. Remote Sensing of Environment 112 3493-3510
   * LUMPS – NARP – OHM.
-* Järvi L - CSB Grimmond A Christen (2011) The<strong>S</strong>urface <strong>U</strong>rban <strong>E</strong>nergy and <strong>W</strong>ater Balance <strong>S</strong>cheme (SUEWS): Evaluation in Vancouver  and Los Angeles. [Journal of Hydrology doi:10.1016/j.jhydrol.2011.10.001](http://www.sciencedirect.com/science/article/pii/S0022169411006937)
-  * SUEWS
-* Järvi L, Grimmond CSB, Taka M, Nordbo A, Setälä H, Strachan IB (2014) Development of the Surface Urban Energy and Water balance Scheme (SUEWS) for cold climate cities.[Geoscientific Model Development 7 1691-1711. doi](http://dx.doi.org/10.5194/gmd-7-1691-2014) 
- * SUEWS
-* Allen L - F Lindberg CSB Grimmond (2011) Global to city scale model for anthropogenic heat flux<i> International Journal of Climatology</i> 31 1990-2005
+* Allen L - F Lindberg CSB Grimmond (2011) Global to city scale model for anthropogenic heat flux International Journal of Climatology 31 1990-2005
    * LUCY
 * Lindberg F Grimmond CSB Nithiandamdan Y Kotthaus S Allen L (2013) Impact of city changes and weather on anthropogenic heat flux in Europe 1995–2015 [Urban Climate](http://dx.doi.org/10.1016/j.uclim.2013.03.002)
    * LUCY
