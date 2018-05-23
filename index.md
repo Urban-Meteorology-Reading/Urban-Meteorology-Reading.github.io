@@ -50,8 +50,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
    * Gabey et al. (2018)  <a href=https://link.springer.com/article/10.1007%2Fs00704-018-2367-y TAC</a>
    * Lindberg et al. (2018)
  * Versions
-  * Version in UMEP <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#">LQF</a> 
-  * Current version: V2014a (25 June 2014) includes options to change spatial resolution. 
+   * Version in UMEP <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#">LQF</a> 
+   * Current version: V2014a (25 June 2014) includes options to change spatial resolution. 
      * Model <a href="http://www.met.reading.ac.uk/micromet/documents/SoftwareDownloads/LUCYdownload/LUCYSetup_32bit.exe" 32bit</a>  
      * <a href="http://www.met.reading.ac.uk/micromet/documents/SoftwareDownloads/LUCYdownload/LUCYSetup64bit.exe">64 Bit</a>
      * See manual for the MCR download
