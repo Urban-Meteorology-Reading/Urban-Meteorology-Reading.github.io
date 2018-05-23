@@ -163,8 +163,10 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * <a href="./other files/svf.zip" download>Download</a>
   
 # FRAISE
-
-
+* Manual
+  * [Manual](http://www.met.rdg.ac.uk/micromet/documents//FRAISE_UserManual_Aug2011.pdf)
+* References
+  * Loridan TCSB Grimmond (2012) Characterization of <strong>energy flux partitioning in urban environments: links with surface seasonal properties Journal of Applied Meteorology and Climatology 51 219-241 [doi: 10.1175/JAMC-D-11-038.1](http://journals.ametsoc.org/doi/pdf/10.1175/JAMC-D-11-038.1) [colour figures](http://www.met.reading.ac.uk/micromet/publications/Colour_Figures_LoridanGrimmond2012JAMC.pdf)
 
 # Publications
 * Grimmond CSB  Oke TR. & Steyn DG (1986). Urban water balance: 1. A model for daily totals. Water Resources Research 22(10) 1397-140
@@ -199,7 +201,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * SVF
 * Grimmond CSB, SK Potter, HN Zutte, C Souch 2001: Rapid methods to estimate sky view factors applied to urban areas. International Journal of Climatology 21 903-913
   * SVF
-Loridan TCSB Grimmond (2012) Characterization of <strong>energy flux partitioning in urban environments: links with surface seasonal properties Journal of Applied Meteorology and Climatology 51 219-241 [doi: 10.1175/JAMC-D-11-038.1](http://journals.ametsoc.org/doi/pdf/10.1175/JAMC-D-11-038.1) [colour figures](http://www.met.reading.ac.uk/micromet/publications/Colour_Figures_LoridanGrimmond2012JAMC.pdf)
+
   * FRAISE
 
 <!--
