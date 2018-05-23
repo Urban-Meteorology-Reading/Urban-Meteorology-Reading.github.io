@@ -19,6 +19,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Brief
   * Surface Urban Energy and Water Balance Scheme
   * urban radiaion – energy and water balance model. Includes LUMPS and can be used to calculate QF.
+  * Applicable Period: 5 min-hourly-annual
 * References
   * Jarvi et al. (2011) J. Hydrology
   * Jarvi et al. (2014) GMD 
