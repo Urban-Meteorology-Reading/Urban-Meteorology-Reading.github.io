@@ -13,12 +13,27 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # SUEWS
 
-<a href="other files/SUEWS_V2017b_macOS.zip" download>macOS</a>
-<a href="other files/SUEWS_V2017b_Win10x64.zip" download>Windows10x64</a>
+* macOS
+<a href="other files/SUEWS_V2017b_macOS.zip" download>Download</a>
+
+* Windows10x64
+<a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
+
+
+# LUMPS
+
+<a href="other files/LUMPS_V5_6.zip" download>Download</a>
+
 
 # GreaterQF
 
 <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
+
+
+# SVF
+
+<a href="./other files/svf.zip" download>Download</a>
+
 <!--
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
