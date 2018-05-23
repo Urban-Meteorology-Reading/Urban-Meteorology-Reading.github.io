@@ -12,7 +12,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 
-This page shows all the links to public releases of softwares developed by Urban Meteorology Group at University of Reading.
+Links to public releases of softwares developed by Urban Meteorology Group at University of Reading.
 
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
@@ -26,8 +26,11 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 
 # LUMPS V5_6
-
-<a href="other files/LUMPS_V5_6.zip" download>Download</a>
+* Grimmond & Oke (2002) JAM
+* Offerle et al. (2003) JAM 
+* Loridan et al. (2011) JAMC
+* <a href="http://www.met.rdg.ac.uk/micromet/documents/LUMPSv5_6_IO.pdf"  Manual</a> 
+* <a href="other files/LUMPS_V5_6.zip" download>Download</a>
 
 
 # GreaterQF 
