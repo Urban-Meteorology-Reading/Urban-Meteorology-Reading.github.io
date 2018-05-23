@@ -37,9 +37,11 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * Loridan et al. (2011) JAMC
 * Manual 
   * <a href="other files/LUMPSv5_6_IO.pdf" download>Manual PDF</a>
-Versions
+* Versions
   * V5_6<a href="other files/LUMPS_V5_6.zip" download>Download</a>
-  * Wtihin SUEWS (see above)
+  * Within SUEWS (see above)
+* Background 
+  * The Large scale Urban Consumption of energY model (LUCY) simulates all components of anthropogenic heat flux (QF) from the global to neighborhood scale at spatial resolutions ranging from 30 x 30 arc-second to 0.5° x 0.5°. Any day between 1900 and 2099 can theoretically be considered. The success of the outcome depends on the data available. The model includes a database of different working patterns and public holidays, vehicle use and energy consumption in each country. The databases can be edited to include specific diurnal and seasonal vehicle and energy consumption patterns, local holidays and flows of people within a city. If better information about individual cities is available within this (open-source) database, then the accuracy of this model can only improve, to provide the community data from global-scale climate modelling or the individual city scale in the future. The results show that QF varied widely through the year, through the day, between countries and urban areas. An assessment of the heat emissions estimated revealed that they are reasonably close to those produced by a global model and a number of small-scale city models, so results from LUCY can be used with a degree of confidence. From LUCY, the global mean urban QF has a diurnal range of 0.7 to 3.6 W m-2, and is greater on weekdays than weekends. The heat release from building is the largest contributor (89 to 96%), to heat emissions globally. Differences between months are greatest in the middle of the day (up to 1 W m-2at 1pm). December to February, the coldest months in the Northern Hemisphere, have the highest heat emissions. July and August are at the higher end. The least QF is emitted in May. The highest individual grid cell heat fluxes in urban areas were located in New York (577), Paris (261.5), Tokyo (178), San Francisco (173.6), Vancouver (119) and London (106.7).
   
  # LUCY  
  * References
