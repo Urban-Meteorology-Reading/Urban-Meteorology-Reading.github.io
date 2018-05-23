@@ -13,10 +13,28 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 Links to public releases of softwares developed by Urban Meteorology Group at University of Reading.
-
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
 # SUEWS 
+* References
+  * Jarvi et al. (2011) J. Hydrology
+  * Jarvi et al. (2014) GMD 
+  * Ward et al. (2016) [Urban Climate](https://www.sciencedirect.com/science/article/pii/S2212095516300256)
+  * Grimmond CSB  Oke TR & Steyn DG (1986) Urban water balance: 1. A model for daily totals. Water Resources Research 22(10) 1397-140
+  * Grimmond CSB & Oke TR (1991). An evapotranspiration-interception model for urban areas. Water Resources Research 27(7) 1739-1755
+  * Grimmond CSB, Cleugh HA & Oke TR (1991) An objective urban heat storage model and its comparison with other schemes. Atmospheric Environment 25B 311-326
+* Manual
+  * Latest version of the [Manual](http://suews-docs.readthedocs.io)
+* Versions
+  * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
+  * Standalone V2017b
+    * macOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
+    * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
+
+
+# SUEWS
+* Brief
+  * urban radiaion – energy and water balance model. Includes LUMPS and can be used to calculate QF.
 * References
   * Grimmond & Oke (1991) WRR
   * Jarvi et al. (2011) J. Hydrology
@@ -27,20 +45,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Versions
   * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
   * Standalone V2017b
-    * macOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
+    * Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
     * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
-
-# LUMPS
-* References
-  * Grimmond & Oke (2002) JAM
-  * Offerle et al. (2003) JAM 
-  * Loridan et al. (2011) JAMC
-* Manual 
-  * <a href="other files/LUMPSv5_6_IO.pdf" download> Manual PDF</a>
-* Versions
-  * V5_6<a href="other files/LUMPS_V5_6.zip" download> Download</a>
-  * Within SUEWS (see above)
-
 # LUCY 
 * Brief
    * Large scale Urban Consumption of energY
@@ -73,45 +79,24 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
    * More generic version (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
   * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
 
-# SVF - IU - Sky view factor
-* Reference
-  * Grimmond et al. (2001) Int. J. Climatology
-* Version
-  * <a href="./other files/svf.zip" download>Download</a>
-  
-  Links to public releases of softwares developed by Urban Meteorology Group at University of Reading.
 
-Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
-# SUEWS
-* Brief
-  * urban radiaion – energy and water balance model. Includes LUMPS and can be used to calculate QF.
-* References
-  * Grimmond & Oke (1991) WRR
-  * Jarvi et al. (2011) J. Hydrology
-  * Jarvi et al. (2014) GMD 
-  * Ward et al. (2016) [Urban Climate](https://www.sciencedirect.com/science/article/pii/S2212095516300256)
-* Manual
-  * Latest version of the [Manual](http://suews-docs.readthedocs.io)
-* Versions
-  * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
-  * Standalone V2017b
-    * Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
-    * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
+
+
 
 # LUMPS
 * Brief
    * Surface flux model that utilises standard meteorological observations and land cover characteristics. It can model the variability in fluxes both spatially and temporally.
 * References
-  * Grimmond & Oke (2002) JAM
-  * Offerle et al. (2003) JAM 
-  * Loridan et al. (2011) JAMC
+  * Grimmond CSB. & Oke TR (2002). Turbulent heat fluxes in urban areas: Observations and a local-scale urban meteorological parameterization scheme (LUMPS). Journal of Applied Meteorology 41 792-810
+  * Loridan T – CSB Grimmond BD Offerle DT Young T Smith L Jarvi F Lindberg (2011). Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments Journal of Applied Meteorology & Climatology.doi: [10.1175/2010JAMC2474.1](http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC2474.1)
+   * Offerle B  Grimmond CSB & Oke TR (2003). Parameterization of net all-wave radiation for urban areas.Journal of Applied Meteorology 42 1157-1173
+   * Grimmond CSB & Oke TR (1999). Heat storage in urban areas: Local-scale observations and evaluation of a simple model. Journal of Applied Meteorology 38 922-940
 * Manual 
   * <a href="other files/LUMPSv5_6_IO.pdf" download> Manual PDF</a>
 * Versions
   * V5_6<a href="other files/LUMPS_V5_6.zip" download> Download</a>
   * Within SUEWS (see above)
-
 
 # GreaterQF
 * Brief
@@ -138,9 +123,15 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
      * Fortran
      * Array size should be changed to meet camera resolution 
 * Reference
-  * Grimmond et al. (2001) Int. J. Climatology
+  * Grimmond CSB, SK Potter, HN Zutter, C Souch 2001: Rapid methods to estimate sky view factors applied to urban areas. International Journal of Climatology 21 903-913
 * Version
   * <a href="./other files/svf.zip" download>Download</a>
+  
+  
+  
+  
+  
+
   
 # FRAISE
 * Brief
@@ -151,6 +142,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * R code
 * Software
   * Download *****
+   * Version 2012
 
 * Manual
   * [Manual](http://www.met.rdg.ac.uk/micromet/documents//FRAISE_UserManual_Aug2011.pdf)
@@ -158,19 +150,10 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * Loridan TCSB Grimmond (2012) Characterization of <strong>energy flux partitioning in urban environments: links with surface seasonal properties Journal of Applied Meteorology and Climatology 51 219-241 [doi: 10.1175/JAMC-D-11-038.1](http://journals.ametsoc.org/doi/pdf/10.1175/JAMC-D-11-038.1) [colour figures](http://www.met.reading.ac.uk/micromet/publications/Colour_Figures_LoridanGrimmond2012JAMC.pdf)
 
 # Publications
-* Grimmond CSB  Oke TR. & Steyn DG (1986). Urban water balance: 1. A model for daily totals. Water Resources Research 22(10) 1397-140
-  * SUEWS
-* Grimmond CSB & Oke TR (1991). An evapotranspiration-interception model for urban areas. Water Resources Research 27(7) 1739-1755
-  * SUEWS
-* Grimmond CSB  Cleugh HA & Oke TR (1991). An objective urban heat storage model and its comparison with other schemes. Atmospheric Environment 25B 311-326
-  * SUEWS OHM –   LUMPS
-* Grimmond CSB & Oke TR (1999). Heat storage in urban areas: Local-scale observations and evaluation of a simple model. Journal of Applied Meteorology 38 922-940
+
+
   * SUEWS OHM – LUMPS
-* Grimmond CSB. & Oke TR (2002). Turbulent heat fluxes in urban areas: Observations and a local-scale urban meteorological parameterization scheme (LUMPS). Journal of Applied Meteorology 41 792-810
-  * LUMPS
-* Loridan T – CSB Grimmond BD Offerle DT Young T Smith L Jarvi F Lindberg (2011). Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments Journal of Applied Meteorology & Climatology.doi: [10.1175/2010JAMC2474.1](http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC2474.1)
-  * LUMPS
-* Offerle B  Grimmond CSB & Oke TR (2003). Parameterization of net all-wave radiation for urban areas.Journal of Applied Meteorology 42 1157-1173
+*
   * LUMPS NARP – SUEWS 
 * Offerle B (2003) The energy balance of an urban area: Examining temporal and spatial variability through measurements – remote sensing and modeling. PhD thesis Indiana University
   * LUMPS
@@ -188,10 +171,9 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
    * GreaterQF
 * Lindberg F, CSB Grimmond 2010:  Continuous sky view factor from high resolution urban digital elevation models [Climate Research 42: 177-183 doi:10.3354/cr00882] 
   * SVF
-* Grimmond CSB, SK Potter, HN Zutte, C Souch 2001: Rapid methods to estimate sky view factors applied to urban areas. International Journal of Climatology 21 903-913
-  * SVF
 
-  * FRAISE
+
+
 
 <!--
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
