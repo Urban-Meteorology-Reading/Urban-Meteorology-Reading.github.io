@@ -25,17 +25,17 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
 
 
-# LUMPS
+# LUMPS V5_6
 
 <a href="other files/LUMPS_V5_6.zip" download>Download</a>
 
 
-# GreaterQF
+# GreaterQF 
 
 <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
 
 
-# SVF
+# SVF -IU
 
 <a href="./other files/svf.zip" download>Download</a>
 
