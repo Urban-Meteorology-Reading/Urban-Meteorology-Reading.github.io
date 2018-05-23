@@ -40,7 +40,16 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 Versions
   * V5_6<a href="other files/LUMPS_V5_6.zip" download>Download</a>
   * Wtihin SUEWS (see above)
-
+  
+ # LUCY  
+ * References
+   * Allen et al. (2011) Int. J. Climatology
+   * Lindberg et al. (2013) Urban Climate; 
+   * Gabey et al. (2018)  <a href=https://link.springer.com/article/10.1007%2Fs00704-018-2367-y TAC</a>
+   * Lindberg et al. (2018)
+ * Versions
+  * Version in UMEP <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#">LQF</a> 
+             
 
 # GreaterQF
 * References
@@ -48,7 +57,7 @@ Versions
  * Gabey et al. (2018)  <a href=https://link.springer.com/article/10.1007%2Fs00704-018-2367-y TAC</a>
  * Lindberg et al. (2018)
 * Versions
-  * New more generic version of GreaterQF (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
+  * More generic version (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
  * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
 
 # SVF - IU
