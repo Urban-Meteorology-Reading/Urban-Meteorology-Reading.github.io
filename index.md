@@ -72,6 +72,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Brief
    * Local-scale Urban Meteorological Parameterization Scheme
    * Surface flux model that utilises standard meteorological observations and land cover characteristics. It can model the variability in fluxes both spatially and temporally.
+   * radiation and energy balances, hourly   
 * References
   * Grimmond CSB. & Oke TR (2002). Turbulent heat fluxes in urban areas: Observations and a local-scale urban meteorological parameterization scheme (LUMPS). Journal of Applied Meteorology 41 792-810
   * Loridan T – CSB Grimmond BD Offerle DT Young T Smith L Jarvi F Lindberg (2011). Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments Journal of Applied Meteorology & Climatology.doi: [10.1175/2010JAMC2474.1](http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC2474.1)
