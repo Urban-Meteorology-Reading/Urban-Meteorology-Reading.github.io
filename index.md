@@ -41,7 +41,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * V5_6<a href="other files/LUMPS_V5_6.zip" download>Download</a>
   * Within SUEWS (see above)
 
- # LUCY - Large scale Urban Consumption of energY
+ # LUCY (Large scale Urban Consumption of energY)
  * Brief
    * Model calculates anthropogenic heat fluxes for cities around the world.
  * References
