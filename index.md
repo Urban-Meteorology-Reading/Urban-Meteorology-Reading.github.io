@@ -68,12 +68,9 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
 
 
-
-
-
-
 # LUMPS
 * Brief
+   * Local-scale Urban Meteorological Parameterization Scheme
    * Surface flux model that utilises standard meteorological observations and land cover characteristics. It can model the variability in fluxes both spatially and temporally.
 * References
   * Grimmond CSB. & Oke TR (2002). Turbulent heat fluxes in urban areas: Observations and a local-scale urban meteorological parameterization scheme (LUMPS). Journal of Applied Meteorology 41 792-810
@@ -86,16 +83,6 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * V5_6<a href="other files/LUMPS_V5_6.zip" download> Download</a>
   * Within SUEWS (see above)
 
-# GreaterQF
-* Brief
-   * Calculation of QF for London 200 m x 200 m spatial resolution and 30 min temporal resolution.
-* References
-   * Iamarino M, Sean Beevers, C. S. B. Grimmond (2011) High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970 – 2025. [International Journal of Clmatology](http://onlinelibrary.wiley.com/doi/10.1002/joc.2390/abstract)
-   * Gabey et al. (2018) [TAC](https://link.springer.com/article/10.1007%2Fs00704-018-2367-y)
-    * Lindberg et al. (2018)
-* Versions
-   * More generic version (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
-  * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
 
 # SVF - IU - Sky view factor
 * Brief
@@ -115,12 +102,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Version
   * <a href="./other files/svf.zip" download>Download</a>
   
-  
-  
-  
-  
-
-  
+ 
 # FRAISE
 * Brief
   * Flux Ratio – Active Index Surface Exchange
