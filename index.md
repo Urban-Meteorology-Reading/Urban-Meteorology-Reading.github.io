@@ -42,10 +42,10 @@ Versions
   * Wtihin SUEWS (see above)
 
 
-# GreaterQF 
-* New more generic version of GreaterQF (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
-* macOS
-<a href="./other files/GreaterQFV3.2.7z" download>Download</a>
+# GreaterQF
+* Versions
+  * New more generic version of GreaterQF (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
+ * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
 
 
 # SVF - IU
