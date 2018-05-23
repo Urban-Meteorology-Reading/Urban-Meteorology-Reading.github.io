@@ -164,8 +164,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   
 # FRAISE
 
-<!--
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 
 # Publications
 * Grimmond CSB  Oke TR. & Steyn DG (1986). Urban water balance: 1. A model for daily totals. Water Resources Research 22(10) 1397-140
