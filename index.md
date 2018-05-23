@@ -43,10 +43,13 @@ Versions
 
 
 # GreaterQF
+* References
+ * Iamarino et al. (2012) Int. J. Climatology 
+ * Gabey et al. (2018)  <a href=https://link.springer.com/article/10.1007%2Fs00704-018-2367-y TAC</a>
+ * Lindberg et al. (2018)
 * Versions
   * New more generic version of GreaterQF (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
  * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
-
 
 # SVF - IU
 
