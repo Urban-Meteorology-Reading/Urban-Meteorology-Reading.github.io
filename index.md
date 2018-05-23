@@ -36,9 +36,9 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * Offerle et al. (2003) JAM 
   * Loridan et al. (2011) JAMC
 * Manual 
-  * <a href="other files/LUMPSv5_6_IO.pdf" download>Manual PDF</a>
+  * <a href="other files/LUMPSv5_6_IO.pdf" download> Manual PDF</a>
 * Versions
-  * V5_6<a href="other files/LUMPS_V5_6.zip" download>Download</a>
+  * V5_6<a href="other files/LUMPS_V5_6.zip" download> Download</a>
   * Within SUEWS (see above)
 
  # LUCY 
