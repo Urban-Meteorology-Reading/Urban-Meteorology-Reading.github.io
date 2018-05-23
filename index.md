@@ -16,7 +16,7 @@ This page shows all the links to public releases of softwares developed by Urban
 
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
-# SUEWS
+# SUEWS V2017b
 
 * macOS
 <a href="other files/SUEWS_V2017b_macOS.zip" download>Download</a>
