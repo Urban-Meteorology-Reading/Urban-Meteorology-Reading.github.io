@@ -21,11 +21,11 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * Grimmond & Oke (1991) WRR
   * Jarvi et al. (2011) J. Hydrology
   * Jarvi et al. (2014) GMD 
-  * Ward et al. (2016) <a href="https://www.sciencedirect.com/science/article/pii/S2212095516300256" Urban Climate</a> 
+  * Ward et al. (2016) [Urban Climate](https://www.sciencedirect.com/science/article/pii/S2212095516300256)
 * Manual
-  * Latest version of the <a href="http://suews-docs.readthedocs.io" Manual</a>
+  * Latest version of the [Manual](http://suews-docs.readthedocs.io)
 * Versions
-  * There is a version in <a href="https://umep-docs.readthedocs.io/en/latest/" UMEP</a> 
+  * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
   * Standalone V2017b
     * Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
     * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
@@ -47,8 +47,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
    * Model calculates anthropogenic heat fluxes for cities around the world.
 * References
    * Allen L, F Lindberg, CSB Grimmond (2011) Global to city scale model for anthropogenic heat flux, International Journal of Climatology, 31, 1990-2005.
-   * Lindberg F, Grimmond CSB, Nithiandamdan Y, Kotthaus S, Allen L (2013) Impact of city changes and weather on anthropogenic heat flux in Europe 1995–2015, <a href="http://dx.doi.org/10.1016/j.uclim.2013.03.002" Urban Climate</a>
-   * Gabey et al. (2018) <a href="https://link.springer.com/article/10.1007%2Fs00704-018-2367-y" TAC</a>
+   * Lindberg F, Grimmond CSB, Nithiandamdan Y, Kotthaus S, Allen L (2013) Impact of city changes and weather on anthropogenic heat flux in Europe 1995–2015, [Urban Climate](http://dx.doi.org/10.1016/j.uclim.2013.03.002)
+   * Gabey et al. (2018) [TAC](https://link.springer.com/article/10.1007%2Fs00704-018-2367-y)
    * Lindberg et al. (2018)
 * Versions
    * Version in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#">LQF</a> 
@@ -58,7 +58,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
      * See manual for the MCR download
      * Translation tool between Matlab binary format and ASCII raster: <a href="http://www.met.reading.ac.uk/micromet/documents/SoftwareDownloads/LUCYdownload/mat2ascGUI.exe" mat2ascGUI.exe</a> (11 March 2013)
 * Manual 
-   * <a href="http://www.met.reading.ac.uk/micromet/documents/SoftwareDownloads/LUCYdownload/LUCY-UserManual.pdf" Manual</a>
+   *  [Manual] ("http://www.met.reading.ac.uk/micromet/documents/SoftwareDownloads/LUCYdownload/LUCY-UserManual.pdf")
 * Background 
   * The Large scale Urban Consumption of energY model (LUCY) simulates all components of anthropogenic heat flux (Q<sub>F</sub>) from the global to neighborhood scale at spatial resolutions ranging from 30 x 30 arc-second to 0.5° x 0.5°. Any day between 1900 and 2099 can theoretically be considered. The success of the outcome depends on the data available. The model includes a database of different working patterns and public holidays, vehicle use and energy consumption in each country. The databases can be edited to include specific diurnal and seasonal vehicle and energy consumption patterns, local holidays and flows of people within a city. If better information about individual cities is available within this (open-source) database, then the accuracy of this model can only improve, to provide the community data from global-scale climate modelling or the individual city scale in the future. The results show that Q<sub>F</sub> varied widely through the year, through the day, between countries and urban areas. An assessment of the heat emissions estimated revealed that they are reasonably close to those produced by a global model and a number of small-scale city models, so results from LUCY can be used with a degree of confidence. From LUCY, the global mean urban Q<sub>F</sub> has a diurnal range of 0.7 to 3.6 W m<sup>-2</sup>, and is greater on weekdays than weekends. The heat release from building is the largest contributor (89 to 96%), to heat emissions globally. Differences between months are greatest in the middle of the day (up to 1 W m<-2at 1pm). December to February, the coldest months in the Northern Hemisphere, have the highest heat emissions. July and August are at the higher end. The least QF is emitted in May. The highest individual grid cell heat fluxes (W m<sup>-2</sup>) in urban areas were located in New York (577), Paris (261.5), Tokyo (178), San Francisco (173.6), Vancouver (119) and London (106.7).
 
@@ -66,9 +66,9 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Brief
    * Calculation of QF for London 200 m x 200 m spatial resolution and 30 min temporal resolution.
 * References
-   * Iamarino M, Sean Beevers, C. S. B. Grimmond (2011) High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970 – 2025. <a href="http://onlinelibrary.wiley.com/doi/10.1002/joc.2390/abstract" International Journal of Clmatology</a> 
-   * Gabey et al. (2018) <a href="https://link.springer.com/article/10.1007%2Fs00704-018-2367-y" TAC</a>
-   * Lindberg et al. (2018)
+   * Iamarino M, Sean Beevers, C. S. B. Grimmond (2011) High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970 – 2025. [International Journal of Clmatology](http://onlinelibrary.wiley.com/doi/10.1002/joc.2390/abstract)
+   * Gabey et al. (2018) [TAC](https://link.springer.com/article/10.1007%2Fs00704-018-2367-y)
+    * Lindberg et al. (2018)
 * Versions
    * More generic version (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
   * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
