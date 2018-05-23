@@ -16,6 +16,9 @@ Links to public releases of softwares developed by Urban Meteorology Group at Un
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
 # SUEWS 
+* Brief
+  * Surface Urban Energy and Water Balance Scheme
+  * urban radiaion – energy and water balance model. Includes LUMPS and can be used to calculate QF.
 * References
   * Jarvi et al. (2011) J. Hydrology
   * Jarvi et al. (2014) GMD 
@@ -28,25 +31,9 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Versions
   * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
   * Standalone V2017b
-    * macOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
-    * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
-
-
-# SUEWS
-* Brief
-  * urban radiaion – energy and water balance model. Includes LUMPS and can be used to calculate QF.
-* References
-  * Grimmond & Oke (1991) WRR
-  * Jarvi et al. (2011) J. Hydrology
-  * Jarvi et al. (2014) GMD 
-  * Ward et al. (2016) [Urban Climate](https://www.sciencedirect.com/science/article/pii/S2212095516300256)
-* Manual
-  * Latest version of the [Manual](http://suews-docs.readthedocs.io)
-* Versions
-  * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
-  * Standalone V2017b
     * Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
     * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
+
 # LUCY 
 * Brief
    * Large scale Urban Consumption of energY
