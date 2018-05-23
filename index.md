@@ -16,24 +16,30 @@ Links to public releases of softwares developed by Urban Meteorology Group at Un
 
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
-# SUEWS V2017b
+# SUEWS 
 * References
   * Grimmond & Oke (1991) WRR
   * Jarvi et al. (2011) J. Hydrology
   * Jarvi et al. (2014) GMD 
-  * Ward et al. (2016) Urban Climate https://www.sciencedirect.com/science/article/pii/S2212095516300256
-* Latest version of the Manual: http://suews-docs.readthedocs.io
-* There is also a version in <a href="https://umep-docs.readthedocs.io/en/latest/" UMEP</a> 
-* Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
-* Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
+  * Ward et al. (2016) <a href="https://www.sciencedirect.com/science/article/pii/S2212095516300256" Urban Climate</a> 
+* Manual
+  * Latest version of the <a href="http://suews-docs.readthedocs.io" Manual</a>
+* Versions
+  * There is a version in <a href="https://umep-docs.readthedocs.io/en/latest/" UMEP</a> 
+  * Standalone V2017b
+   * Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
+   * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
 
-
-# LUMPS V5_6
-* Grimmond & Oke (2002) JAM
-* Offerle et al. (2003) JAM 
-* Loridan et al. (2011) JAMC
-* <a href="other files/LUMPSv5_6_IO.pdf" download>Manual PDF</a> 
-* <a href="other files/LUMPS_V5_6.zip" download>Download</a>
+# LUMPS
+* References
+  * Grimmond & Oke (2002) JAM
+  * Offerle et al. (2003) JAM 
+  * Loridan et al. (2011) JAMC
+* Manual 
+  * <a href="other files/LUMPSv5_6_IO.pdf" download>Manual PDF</a>
+Versions
+  * V5_6<a href="other files/LUMPS_V5_6.zip" download>Download</a>
+  * Wtihin SUEWS (see above)
 
 
 # GreaterQF 
