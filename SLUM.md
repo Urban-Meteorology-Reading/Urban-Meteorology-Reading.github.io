@@ -19,4 +19,4 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
      * [long-wave emissivity](other files/LUMA_SLUM_IR.csv)
 * Reference
    * Further details (including integrated broadband values of emissivity and albedo), methods and data analysis are presented in
-   * Kotthaus, S, TEL Smith, MJ Wooster, and CSB Grimmond 2014: Derivation of an urban materials spectral library through emittance and reflectance spectroscopy, ISPRS Journal of Photogrammetry and Remote Sensing, 94, 194–212. [doi:10.1016/j.isprsjprs.2014.05.00](http://www.sciencedirect.com/science/article/pii/S0924271614001233)
+     * Kotthaus, S, TEL Smith, MJ Wooster, and CSB Grimmond 2014: Derivation of an urban materials spectral library through emittance and reflectance spectroscopy, ISPRS Journal of Photogrammetry and Remote Sensing, 94, 194–212. [doi:10.1016/j.isprsjprs.2014.05.00](http://www.sciencedirect.com/science/article/pii/S0924271614001233)
