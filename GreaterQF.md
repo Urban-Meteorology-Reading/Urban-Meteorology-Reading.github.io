@@ -10,7 +10,6 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 # GreaterQF
 
-
 * Brief
    * Calculation of QF for London 200 m x 200 m spatial resolution and 30 min temporal resolution.
 * References
