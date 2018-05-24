@@ -2,15 +2,6 @@
 layout: default
 ---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
-
-<!-- [Link to another page](./another-page.html). -->
-
-<!--
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-
 
 Links to public releases of softwares developed by Urban Meteorology Group at University of Reading.
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
@@ -30,7 +21,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Manual
   * Latest version of the [Manual](http://suews-docs.readthedocs.io)
 * Versions
-  * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
+  * There is a version in [UMEP](https://umep-docs.readthedocs.io) 
   * Standalone V2017b
     * macOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
     * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
