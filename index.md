@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Links to public releases of softwares developed by Urban Meteorology Group at University of Reading.
-Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
+Public release of software developed by Urban Meteorology Group (and Colllaborators) at University of Reading.
+Please report issues with these pages [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
 # Software
 
