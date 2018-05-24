@@ -13,11 +13,12 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 -   [LUMPS](LUMPS)
 -   [SVF - IU - Sky view factor](SVF)
 -   [FRAISE](FRAISE)
--   [SLUM](SLUM)
+
 -   [UMEP](https://umep-docs.readthedocs.io/en/latest/)
 
 # Data
-
+-   Spectral Library of Urban Materials (SLUM)
+    -   [SLUM](SLUM)
 -   UMEP Tutorial data
     - [Goteborg](other files/Goteborg_SWEREF99_1200.zip)
     - London
