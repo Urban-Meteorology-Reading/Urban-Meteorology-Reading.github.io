@@ -6,6 +6,12 @@ layout: default
 Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/issues)
 
 # SUEWS
+* Download
+  * There is a version in [UMEP](https://umep-docs.readthedocs.io)
+  * Standalone V2017b
+    * [macOS](other files/SUEWS_V2017b_macOS.zip)
+    * [Windows10x64](other files/SUEWS_V2017b_Win10x64.zip)
+
 * Brief
   * Surface Urban Energy and Water Balance Scheme
   * urban radiaion – energy and water balance model. Includes LUMPS and can be used to calculate QF.
@@ -19,8 +25,4 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * Grimmond CSB, Cleugh HA & Oke TR (1991) An objective urban heat storage model and its comparison with other schemes. Atmospheric Environment 25B 311-326
 * Manual
   * Latest version of the [Manual](http://suews-docs.readthedocs.io)
-* Versions
-  * There is a version in [UMEP](https://umep-docs.readthedocs.io)
-  * Standalone V2017b
-    * [macOS](other files/SUEWS_V2017b_macOS.zip)
-    * [Windows10x64](other files/SUEWS_V2017b_Win10x64.zip)
+

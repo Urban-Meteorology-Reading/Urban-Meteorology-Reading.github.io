@@ -30,7 +30,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 -   [LQF database](other files/LQF_Database.zip)
 
 
-## Publications
+### Publications
 
 -   LUMPS
     -   Offerle B (2003) The energy balance of an urban area: Examining temporal and spatial variability through measurements – remote sensing and modeling. PhD thesis Indiana University
