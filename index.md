@@ -19,7 +19,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 -   UMEP Tutorial data
     - [Goteborg](other files/Goteborg_SWEREF99_1200.zip)
-    - [London]
+    - London
         - [London_BNG.zip](other files/London_BNG.zip)
         - [DataCoventGarden.zip](other files/DataCoventGarden.zip)
         - [DataSmallAreaLondon.zip](other files/DataSmallAreaLondon.zip)
