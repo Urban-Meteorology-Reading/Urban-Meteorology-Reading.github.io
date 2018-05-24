@@ -56,7 +56,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
     * Lindberg et al. (2018)
 * Versions
    * More generic version (i.e. not just for London) in <a href="https://umep-docs.readthedocs.io/en/latest/">UMEP</a> called  <a href="https://umep-docs.readthedocs.io/en/latest/OtherManuals/GQF_Manual.html#">GQF</a> 
-  * <a href="./other files/GreaterQFV3.2.7z" download>Download</a>
+  * [Download](other files/GreaterQFV3.2.7z)
 
 
 # LUMPS
