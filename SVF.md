@@ -21,5 +21,6 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
      * Array size should be changed to meet camera resolution
 * Reference
   * Grimmond CSB, SK Potter, HN Zutter, C Souch 2001: Rapid methods to estimate sky view factors applied to urban areas. International Journal of Climatology 21 903-913
+  * Lindberg F, CSB Grimmond 2010:  Continuous sky view factor from high resolution urban digital elevation models [Climate Research 42: 177-183 doi:10.3354/cr00882]
 * Version
   * <a href="./other files/svf.zip" download>Download</a>
