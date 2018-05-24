@@ -9,7 +9,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Brief
   * Flux Ratio – Active Index Surface Exchange
   * Midday (within 3 h of solar noon)
-  * calculates active surface – and fluxes
+  * calculates active surface and fluxes
 * Language
   * R code
 * Software
