@@ -32,7 +32,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Versions
   * There is a version in [UMEP](https://umep-docs.readthedocs.io/en/latest/) 
   * Standalone V2017b
-    * Apple IOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
+    * macOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
     * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
 
 # LUCY 
@@ -129,8 +129,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * The radiative response of impervious urban materials is a highly influential surface property, due to its impacts on the radiation balance of incoming and outgoing long- and short-wave fluxes. Information about the material composition can be determined with data resolved to the wavelength level. Spectral reflectance in the visible- to short-wave infrared (VIS-SWIR) region is widely used in remote sensing-based land cover classification and spectral long-wave infrared (LWIR) emissivity is required for the observation of surface temperatures. The Spectral Library of impervious Urban Materials (SLUM) available from the London Urban Micromet data Archive (LUMA) includes LWIR emissivity spectra of 74 samples of impervious surfaces derived using measurements made by a portable Fourier Transform InfraRed (FTIR) spectrometer and matching short-wave reflectance spectra observed for each urban sample.
 * Data 
   * provided in csv format for
-     * [short-wave reflectance](http://www.met.reading.ac.uk/micromet/documents/LUMA_SLUM_SW.csv)
-     * [long-wave emissivity](http://www.met.reading.ac.uk/micromet/documents/LUMA_SLUM_IR.csv)
+     * [short-wave reflectance](other files/LUMA_SLUM_SW.csv)
+     * [long-wave emissivity](other files/LUMA_SLUM_IR.csv)
 * Reference
    * Further details (including integrated broadband values of emissivity and albedo), methods and data analysis are presented in
    * Kotthaus, S, TEL Smith, MJ Wooster, and CSB Grimmond 2014: Derivation of an urban materials spectral library through emittance and reflectance spectroscopy, ISPRS Journal of Photogrammetry and Remote Sensing, 94, 194–212. [doi:10.1016/j.isprsjprs.2014.05.00](http://www.sciencedirect.com/science/article/pii/S0924271614001233)
@@ -152,115 +152,3 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * SVF
 
 
-
-
-<!--
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-``` -->
