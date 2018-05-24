@@ -30,3 +30,6 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 -   [LQF database](other files/LQF_Database.zip)
 
+# Email-list 
+- [SUEWS](https://www.lists.reading.ac.uk/mailman/listinfo/met-suews) 
+- [UMEP](https://www.lists.reading.ac.uk/mailman/listinfo/met-umep)
