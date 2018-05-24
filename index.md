@@ -23,8 +23,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Versions
   * There is a version in [UMEP](https://umep-docs.readthedocs.io) 
   * Standalone V2017b
-    * macOS <a href="other files/SUEWS_V2017b_macOS.zip" download>Download </a>
-    * Windows10x64 <a href="other files/SUEWS_V2017b_Win10x64.zip" download>Download</a>
+    * [macOS](other files/SUEWS_V2017b_macOS.zip)
+    * [Windows10x64](other files/SUEWS_V2017b_Win10x64.zip)
 
 # LUCY 
 * Brief
