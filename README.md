@@ -2,7 +2,7 @@
 Urban Meteorology at University of Reading
 
 ## Download page
-https://urban-meteorology-reading.github.io/public-release/
+https://urban-meteorology-reading.github.io/
 
 
 ## Documentation
