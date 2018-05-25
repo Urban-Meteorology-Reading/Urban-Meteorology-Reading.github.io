@@ -12,8 +12,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * Applicable Period: 5 min-hourly-annual
 * Manual
   * Latest version of the [Manual](http://suews-docs.readthedocs.io)
-  * [PDF of 2016a](other files/SUEWS_V2016a_Manual.pdf)
-  * [PDF of 2017b](other files/SUEWS_V2017b_Manual.pdf)
+  * [V2016a PDF](other files/SUEWS_V2016a_Manual.pdf)
+  * [V2017b PDF](other files/SUEWS_V2017b_Manual.pdf)
 * Download
   * Standalone V2017b
     * [macOS](other files/SUEWS_V2017b_macOS.zip)
