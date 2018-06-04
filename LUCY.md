@@ -21,8 +21,8 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 * Versions
    * Version in [UMEP](https://umep-docs.readthedocs.io) called [LQF](http://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#lqf-manual)
    * Current version: V2014a (25 June 2014) includes options to change spatial resolution.
-     * [Model-32bit](other files/LUCYSetup32bit.exe.zip)
-     * [Model-64bit](other files/LUCYSetup64bit.exe.zip)
+     * [Model-32bit](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/raw/master/other%20files/LUCYSetup32bit.exe.zip)
+     * [Model-64bit](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/raw/master/other%20files/LUCYSetup64bit.exe.zip)
      * See manual for the MCR download
      * Translation tool between Matlab binary format and ASCII raster: [mat2ascGUI.exe](other files/mat2ascGUI.exe) (11 March 2013)
 
