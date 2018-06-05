@@ -24,7 +24,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
      * [Model-32bit](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/raw/master/other%20files/LUCYSetup32bit.exe.zip)
      * [Model-64bit](https://github.com/Urban-Meteorology-Reading/Urban-Meteorology-Reading.github.io/raw/master/other%20files/LUCYSetup64bit.exe.zip)
      * See manual for the MCR download
-     * Translation tool between Matlab binary format and ASCII raster: [mat2ascGUI.exe](other files/mat2ascGUI.exe) (11 March 2013)
+     * Translation tool between Matlab binary format and ASCII raster: [mat2ascGUI.exe](other files/mat2ascGUI.exe.zip) (11 March 2013)
 
 
 * Manual
