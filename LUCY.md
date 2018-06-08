@@ -14,11 +14,11 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 * References
    * Allen L, F Lindberg, CSB Grimmond (2011) Global to city scale model for anthropogenic heat flux, International Journal of Climatology, 31, 1990-2005.
-   * Lindberg F, Grimmond CSB, Nithiandamdan Y, Kotthaus S, Allen L (2013) Impact of city changes and weather on anthropogenic heat flux in Europe 1995–2015, Urban Climate http://dx.doi.org/10.1016/j.uclim.2013.03.002
+   * Lindberg F, Grimmond CSB, Nithiandamdan Y, Kotthaus S, Allen L (2013) Impact of city changes and weather on anthropogenic heat flux in Europe 1995–2015, Urban Climate 4, 1-13 [http://dx.doi.org/10.1016/j.uclim.2013.03.002](http://dx.doi.org/10.1016/j.uclim.2013.03.002)
    * Gabey AM, Grimmond CSB, I. Capel-Timms (2018) Anthropogenic heat flux: advisable spatial resolutions when input data
-are scarce Theoretical and Applied Climatology https://link.springer.com/article/10.1007%2Fs00704-018-2367-y
-   * Lindberg F, Grimmond CSB, Gabey A, Huang B, Kent CW, Sun T, Theeuwes N, Järvi L, Ward H, Capel-Timms I, Chang YY, Jonsson P, Krave N, Liu D, Meyer D, Olofson F, Tan JG, Wästberg D, Xue L, Zhang Z (2017) Urban Multi-scale Environmental Predictor (UMEP) - An integrated tool for city-based climate services.  Environmental Modelling and Software https://doi.org/10.1016/j.envsoft.2017.09.020 
-   * 	Grimmond, Sue, Lindberg, Fredrik, Allen, Lucy, Yogeswaran, N, Kotthaus, Simone (2018): LUCY: Large scale Urban Consumption of Energy. University of Reading. Software. http://dx.doi.org/10.17864/1947.149 
+are scarce Theoretical and Applied Climatology [https://link.springer.com/article/10.1007%2Fs00704-018-2367-y](https://link.springer.com/article/10.1007%2Fs00704-018-2367-y)
+   * Lindberg F, Grimmond CSB, Gabey A, Huang B, Kent CW, Sun T, Theeuwes N, Järvi L, Ward H, Capel-Timms I, Chang YY, Jonsson P, Krave N, Liu D, Meyer D, Olofson F, Tan JG, Wästberg D, Xue L, Zhang Z (2017) Urban Multi-scale Environmental Predictor (UMEP) - An integrated tool for city-based climate services.  Environmental Modelling and Software, 99, 70-87 [https://doi.org/10.1016/j.envsoft.2017.09.020]( https://doi.org/10.1016/j.envsoft.2017.09.020) 
+   * 	Grimmond, Sue, Lindberg, Fredrik, Allen, Lucy, Yogeswaran, N, Kotthaus, Simone (2018): LUCY: Large scale Urban Consumption of Energy. University of Reading. [Software http://dx.doi.org/10.17864/1947.149](http://dx.doi.org/10.17864/1947.149)
 
 * Versions
    * Version in [UMEP](https://umep-docs.readthedocs.io) called [LQF](http://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#lqf-manual)
@@ -30,7 +30,7 @@ are scarce Theoretical and Applied Climatology https://link.springer.com/article
 
 
 * Manual
-   *  [Manual] Grimmond, Sue, Lindberg, Fredrik, Allen, Lucy, Yogeswaran, N, Kotthaus, Simone (2018): LUCY: Large scale Urban Consumption of Energy. University of Reading. Software. http://dx.doi.org/10.17864/1947.149
+   *  [Manual] (http://dx.doi.org/10.17864/1947.149)
 
 * Background
 
