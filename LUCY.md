@@ -17,6 +17,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
    * Lindberg F, Grimmond CSB, Nithiandamdan Y, Kotthaus S, Allen L (2013) Impact of city changes and weather on anthropogenic heat flux in Europe 1995–2015, [Urban Climate](http://dx.doi.org/10.1016/j.uclim.2013.03.002)
    * Gabey et al. (2018) [TAC](https://link.springer.com/article/10.1007%2Fs00704-018-2367-y)
    * Lindberg et al. (2018)
+   * 	Grimmond, Sue, Lindberg, Fredrik, Allen, Lucy, Yogeswaran, N, Kotthaus, Simone (2018): LUCY: Large scale Urban Consumption of Energy. University of Reading. Software. http://dx.doi.org/10.17864/1947.149 
 
 * Versions
    * Version in [UMEP](https://umep-docs.readthedocs.io) called [LQF](http://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#lqf-manual)
@@ -28,7 +29,7 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
 
 
 * Manual
-   *  [Manual](other files/LUCYUserManual.pdf)
+   *  [Manual] Grimmond, Sue, Lindberg, Fredrik, Allen, Lucy, Yogeswaran, N, Kotthaus, Simone (2018): LUCY: Large scale Urban Consumption of Energy. University of Reading. Software. http://dx.doi.org/10.17864/1947.149
 
 * Background
 
