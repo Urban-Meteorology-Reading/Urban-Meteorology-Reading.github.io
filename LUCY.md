@@ -49,25 +49,3 @@ are scarce Theoretical and Applied Climatology [https://link.springer.com/articl
 
 
 
-## LUCY Community Database
-  
-* Click on link to view spreadsheets
-    
-    * [USERS/SOURCES](https://docs.google.com/spreadsheets/d/12T_7DSToe0DHtHIwsmOg6b-f68PQNj_Ygf5X2qESUXY/edit?usp=sharing&authkey=CK3PlvwI)
-    
-    * [Annual energy consumption (kWh) by country](https://docs.google.com/spreadsheets/d/1-1VCHjYkTw9nAuuuwFKWwMK61hklNVeXAfQy_J1sR1s/edit?usp=sharing&authkey=CMCUuc4D)
-    
-    * [Cars  [number of vehicles per 1000 people] by country](https://docs.google.com/spreadsheets/d/1VtO64iPeP39HBx_8ERV-APriZl8VR-MSpdMS_qodPjo/edit?usp=sharing&authkey=CO2CxO0C)
-    
-    * [Freight [number of vehicles per 1000 people] by country](https://docs.google.com/spreadsheets/d/1gtltBHzb2eJBSAurkWYcxORb-jpMbQiAqUX0mXGL-is/edit?usp=sharing&authkey=COnbv74E)
-    
-    * [Motorbikes [number of vehicles per 1000 people]  by country](https://docs.google.com/spreadsheets/d/1wpbApfCfc7_tCTXnRTrz3gJntLt0qSn8cdxXAIttah0/edit?usp=sharing&authkey=CL79rIUD)
-  
-* The ‘BASIC’ tables include the information provided with the LUCY distribution
- 
-* Tables 2, 3, 4, … etc. hold data that have been added by the LUCY user community
- 
-* If you have access to new data that are not yet available or your data might differ from those listed, please add into a new data table and include the relevant ‘SOURCE’ and ‘USER’ information in the associated tables, e.g. SOURCE 2 and USER 2 if you added data to Table 2.
- 
-* Please make sure that you also list all SOURCES under your USER ID in the tables USERS/SOURCES (first link).
-After adding new data to the LUMA archive, please fill in the following form (click here) for each submission to help us keep track of the changes in the database.
