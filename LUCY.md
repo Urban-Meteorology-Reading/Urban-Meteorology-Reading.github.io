@@ -30,7 +30,8 @@ are scarce Theoretical and Applied Climatology [https://link.springer.com/articl
 
 
 * Manual
-   *  [Manual http://dx.doi.org/10.17864/1947.149](http://dx.doi.org/10.17864/1947.149)
+   *  [Standalone Version Manual http://dx.doi.org/10.17864/1947.149](http://dx.doi.org/10.17864/1947.149)
+   *  [LQF Manual](http://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#lqf-manual)
 
 * Background
 
