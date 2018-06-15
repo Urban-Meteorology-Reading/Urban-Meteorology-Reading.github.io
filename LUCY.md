@@ -21,8 +21,8 @@ are scarce Theoretical and Applied Climatology [https://link.springer.com/articl
    * 	Grimmond, Sue, Lindberg, Fredrik, Allen, Lucy, Yogeswaran, N, Kotthaus, Simone (2018): LUCY: Large scale Urban Consumption of Energy. University of Reading. [Software http://dx.doi.org/10.17864/1947.149](http://dx.doi.org/10.17864/1947.149)
 
 * Versions
-   * Version in [UMEP](https://umep-docs.readthedocs.io) called [LQF](http://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#lqf-manual)
-   *   Windows standalone version: V2014a (25 June 2014) includes options to change spatial resolution.
+   * Apple/Linux/Windows Version in [UMEP](https://umep-docs.readthedocs.io) called [LQF](http://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#lqf-manual)
+   * Windows standalone version: V2014a (25 June 2014) includes options to change spatial resolution.
      * [Model-32bit](http://researchdata.reading.ac.uk/149/3/LUCYSetup32bit.exe.zip)
      * [Model-64bit](http://researchdata.reading.ac.uk/149/2/LUCYSetup64bit.exe.zip)
      * See manual for the MCR download
