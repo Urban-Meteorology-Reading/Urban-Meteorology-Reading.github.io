@@ -32,6 +32,14 @@ are scarce Theoretical and Applied Climatology [https://link.springer.com/articl
 * Manual
    *  [Standalone Version Manual http://dx.doi.org/10.17864/1947.149](http://dx.doi.org/10.17864/1947.149)
    *  [LQF Manual](http://umep-docs.readthedocs.io/en/latest/OtherManuals/LQF_Manual.html#lqf-manual)
+   
+ * Hints - if the standalone version has a problem running
+1.	Open a command prompt window (cmd.exe) as administrator. This is done by right-click on cmd.exe and choosing 'Run as Administrator'.
+2.	Locate the folder where the LUCY program are located.
+3.	Run the program, make your settings and press EXECUTE.
+4.	Report back any output from the command prompt.
+5.	ALso check if a log text file was created in the LUCY folder. If so, attach it to your respons.
+
 
 * Background
 
