@@ -16,13 +16,13 @@ Please report issues [here](https://github.com/Urban-Meteorology-Reading/Urban-M
   * [V2017b PDF](other files/SUEWS_V2017b_Manual.pdf)
 * Download
   * Standalone 
-    - V2017b
-      * [macOS](other files/SUEWS_V2017b_macOS.zip)
-      * [Windows10x64](other files/SUEWS_V2017b_Win10x64.zip)
     - V2018b
       * [macOS](https://zenodo.org/record/2274255/files/SUEWS_2018b_macOS.zip?download=1)
       * [Winx64](https://zenodo.org/record/2274255/files/SUEWS_2018b_win64.zip?download=1)
       * [Linux](https://zenodo.org/record/2274255/files/SUEWS_2018b_Linux.zip?download=1)
+    - V2017b
+      * [macOS](other files/SUEWS_V2017b_macOS.zip)
+      * [Windows10x64](other files/SUEWS_V2017b_Win10x64.zip)
   * There is a version in [UMEP](https://umep-docs.readthedocs.io)
 * References
   * Grimmond CSB  Oke TR & Steyn DG (1986) Urban water balance: 1. A model for daily totals. Water Resources Research 22(10) 1397-140
